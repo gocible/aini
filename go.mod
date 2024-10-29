@@ -1,4 +1,4 @@
-module github.com/relex/aini
+module github.com/gocible/aini
 
 go 1.20
 
